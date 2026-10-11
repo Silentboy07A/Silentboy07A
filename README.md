@@ -1,6 +1,6 @@
 # Hi, I'm Sakthi
 
-## DevOps and Cloud Enthusiast
+## DevOps and Cloud Enthusiast and full stack developer 
 
 Passionate about cloud computing, DevOps, Linux, and full-stack development.  
 Currently learning React, Python, JavaScript, and Java while building practical projects.
